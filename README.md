@@ -1,5 +1,5 @@
 # 🚀 MicroSteps: AI 驱动的微行为生成器
-> **"Make it tiny, make it happen."** > 基于斯坦福 BJ Fogg 行为模型的动态目标拆解助手，作为trae黑客松的作品。
+> **"Make it tiny, make it happen."** > 基于斯坦福 BJ Fogg 行为模型的动态目标拆解助手，作为TRAE黑客松的作品。
 
 [![Vue 3](https://img.shields.io/badge/Vue.js-3.0-4FC08D?style=flat&logo=vue.js)](https://vuejs.org/) [![Vite](https://img.shields.io/badge/Vite-Fast-646CFF?style=flat&logo=vite)](https://vitejs.dev/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
